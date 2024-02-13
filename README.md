@@ -1,2 +1,2 @@
 # repaso-python
-Repaso concepto básico de Python
+Repaso de conceptos básicos de Python
